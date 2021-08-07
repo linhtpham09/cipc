@@ -285,7 +285,6 @@ widgetsnbextension==3.5.1==pypi_0
 xlrd==2.0.1==pypi_0
 xmltodict==0.12.0==py_0
 xz==5.2.5==h1de35cc_0
-yaml=0.2.5==haf1e3a3_0
 zeromq==4.3.4==h23ab428_0
 zipp==3.5.0==pyhd3eb1b0_0
 zlib==1.2.11==h1de35cc_3
