@@ -1,7 +1,6 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: osx-64
-_r-mutex==1.0.0==anacondar_1
 anaconda-client==1.8.0==py38hecd8cb5_0
 anaconda-navigator==2.0.4==py38_0
 anyio==3.3.0==py38h50d1736_0
