@@ -2,14 +2,14 @@
 June-August 2021 
 Made by Linh Pham for the California Immmigrant Policy Center 
 
-#V1 August 8, 2021 
+## V1 August 8, 2021 
 
-##Links
+## Links
 
 - To interact with the data [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/linhtpham09/cipc/main?filepath=cipc_ca.ipynb)
 - To access the story/report 
 
-##Files and their descriptions: 
+## Files and their descriptions: 
 - README.md, this description page 
 - requirements.txt, allows the programs to run 
 - cipc_ca.ipynb, a jupyter notebook which allows you to interact with data 
