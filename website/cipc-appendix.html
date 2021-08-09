@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html> 
+<head>
+        <title> Appendix </title>
+        <meta charset = "utf-8"> 
+        <meta lang = 'en'> 
+        <link rel = "stylesheet" href = "cipc.css"> 
+        
+        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+        <script type="text/javascript">
+          google.charts.load('current', {'packages':['corechart']});
+          google.charts.setOnLoadCallback(drawChart);
+    
+          function drawChart() {
+    
+            var data = google.visualization.arrayToDataTable([
+              ['Have?', 'Count'],
+              ['No',     22],
+              ['Yes',      23]
+            ]);
+    
+            var options = {
+              title: 'Websites with Translation',
+              backgroundColor: { fill:'transparent' }
+            };
+    
+            var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+    
+            chart.draw(data, options);
+          }
+        </script>
+          
+</head>
+
+<body> 
+    <header> 
+        <!--Navigation bar-->
+            <ul> 
+                
+                <div class = "dropdown"> 
+                <li><a class = "active" href = "cipc-home.html" id = "">Home</a></li>
+                <li><a href = "cipc-appendix.html" >Appendix</a></li>
+            </ul>
+    </header>
+    <section class = "text">
+        <h1> Data Appendix </h1>
+        <p> To see the interactive charts click here: 
+            <a href = "https://github.com/linhtpham09/cipc"> https://github.com/linhtpham09/cipc</a>
+        </p>
+        <br> <br> 
+        <h1> For the complete report </h1>
+        <br> <br> 
+        <h1> Other citations</h1>
+        <a href = "https://drive.google.com/file/d/1xDWI26k2sqMGCCrWwQ2ikLceZ4T7eECa/view?usp=sharing">EDD Work Authorization Final Guidelines</a> 
+    </section>
+
+    <div id="piechart" style="width: 900px; height: 500px;"></div>
+   
+      
+</body>
