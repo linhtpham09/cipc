@@ -23,3 +23,4 @@ Version 1 August 8, 2021
 *If data is not correct, please email linh.pham@yale.edu , open to changes and updating versions 
 
 Data collected from the 2019 Workforce Innovation and Opportunity Act Annual Report (https://cwdb.ca.gov/wp-content/uploads/sites/43/2020/12/PY-2019-WIOA-AnnualReport_ACCESSIBLE.pdf) 
+*Not all areas were included due to severe gaps and blanks 
