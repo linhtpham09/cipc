@@ -3,6 +3,12 @@ June-August 2021 <br><br>
 Made by Linh Pham for the California Immmigrant Policy Center <br> <br> 
 Version 1 August 8, 2021 
 
+## Steps for Use: 
+1. Click on mybinder link [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/linhtpham09/cipc/main?filepath=cipc_ca.ipynb)
+2. After finished loading, go to 'Cell' at the top and click 'Run All' 
+3. Once all cells have run, click on the computer icon titled 'Voila' 
+4. This will open up a new page that just features the data 
+
 ## Links
 
 - To interact with the data [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/linhtpham09/cipc/main?filepath=cipc_ca.ipynb)
