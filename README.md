@@ -1,15 +1,12 @@
 ## CIPC - Economic Justice Analysis 
 Summer 2021 
-Made by Linh Pham 
+Made by Linh Pham
 
-## Files and Their Descriptions: 
-- cipc_ca.ipynb: 
-A Jupyter Notebook containing python code for visualizing data
-To see and edit, go here to download the program 
+Links: 
+https://mybinder.org/v2/gh/linhtpham09/cipc/992593a21cbd172c253e006d9d75fa372360cbe5
 
-Some notes for small edits: 
-- within the .plot(), add figsize = (18, 10) to see image in full view 
-- click on the "Voila" button to the right of the code-keyboard and header of images to see data in web format to play around with 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/linhtpham09/cipc/main?filepath=cipc_ca.ipynb)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/linhtpham09/cipc/main?filepath=cipc_ca.ipynb
 
-- requirements.txt: 
-Is code
+Files and their descriptions: 
