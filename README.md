@@ -19,7 +19,7 @@ Version 1 August 8, 2021
 - website folder which hosts the static web pages
 - requirements.txt, allows the programs to run 
 - cipc_ca.ipynb, a jupyter notebook which allows you to interact with data 
-- wdb_all.xls, the data from the 2019 Workforce Innovation and Opportunity Act Annual Report in an excel sheet 
+- wdb_all.xlsx, the data from the 2019 Workforce Innovation and Opportunity Act Annual Report in an excel sheet 
 
 
 *If data is not correct, please email linh.pham@yale.edu , open to changes and updating versions 
